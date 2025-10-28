@@ -1,2 +1,6 @@
-# C_Snake_Game
-Learning arrays and stuff.
+# Snake Game in C!
+
+Just a simple way to learn about linked list ^^.
+
+
+
