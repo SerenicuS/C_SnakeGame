@@ -1,3 +1,0 @@
-D:/IntelliJ_IDE_Projects/clion/array_snake/cmake-build-debug/CMakeFiles/array_snake.dir
-D:/IntelliJ_IDE_Projects/clion/array_snake/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/IntelliJ_IDE_Projects/clion/array_snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
